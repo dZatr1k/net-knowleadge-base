@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "3f1fcb72fc06f168",
+    "type": "split",
+    "children": [
+      {
+        "id": "4311c25fc647927a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6046142a8ab80bb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7b6ef5558f7836fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "058e43f3e626c620",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b19566a6ffb225f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a03a7b78d7204608",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d47decfb895ae310",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7a065b4dcd6fa917",
+    "type": "split",
+    "children": [
+      {
+        "id": "41eaaacc604205f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56386877437a6cd0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Конспекты/Конкурентность в CSharp Стивен Клири/Глава 1. Конкурентность общие сведения.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Глава 1. Конкурентность общие сведения"
+            }
+          },
+          {
+            "id": "a2fc6ba14dc96a07",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Конспекты/Конкурентность в CSharp Стивен Клири/Глава 1. Конкурентность общие сведения.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Глава 1. Конкурентность общие сведения"
+            }
+          },
+          {
+            "id": "8ab20477ca450df1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6a45ef4707a28e12",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Конспекты/Конкурентность в CSharp Стивен Клири/Глава 1. Конкурентность общие сведения.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Глава 1. Конкурентность общие сведения"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0b19566a6ffb225f",
+  "lastOpenFiles": [
+    "net-knowleadge-base",
+    "Теория/cv",
+    "dotnet",
+    "InterviewQuestions",
+    "Теория",
+    "README.md",
+    "Конспекты/Конкурентность в CSharp Стивен Клири/Глава 1. Конкурентность общие сведения.md",
+    "Конспекты/Конкурентность в CSharp Стивен Клири/Конкурентность в CSharp Стивен Клири.md",
+    "Welcome.md",
+    "Конспекты/Конспекты.md",
+    "Конспекты",
+    "Конспекты/Конкурентность в CSharp Стивен Клири"
+  ]
+}
